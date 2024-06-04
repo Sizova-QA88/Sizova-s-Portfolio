@@ -9,7 +9,7 @@
 Сейчас учусь на курсе [Нетологии](https://netology.ru/profile/program/qa-88/schedule/all)  Тестировщик ПО.
 
 
-На основе пройденных теории и практики получен первый ![сертификат](Certificatemanualtesting.jpg) 
+На основе пройденных теории и практики получен первый ![сертификат](https://github.com/Sizova-QA88/Sizova-s-Portfolio/blob/main/Certificatemanual%20testing.jpg) 
 
 
 
