@@ -8,9 +8,8 @@
 
 Сейчас учусь на курсе [Нетологии](https://netology.ru/profile/program/qa-88/schedule/all)  Тестировщик ПО.
 
-:sweat_smile:
 
-На основе пройденных теории и практики получен первый ![сертификат](Certificatemanualtesting.jpg) 
+На основе пройденных теории и практики получен первый ![сертификат]..(Certificatemanualtesting.jpg) 
 
 
 
